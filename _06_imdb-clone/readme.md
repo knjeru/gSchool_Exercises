@@ -1,4 +1,4 @@
-# Project: IMD5 Clone 
+# Project: IMDB Clone 
 In this chapter, you'll apply everything that you've learned towards builing your first project: A clone of IMDB using the OMDb API. 
 
 ## Objectives 
