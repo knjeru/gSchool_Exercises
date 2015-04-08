@@ -12,7 +12,7 @@ After this chapter, students will...
 4. [push their work to Github][4]
 
 ### 1 of 4: Markup
-The structure of a web-page's content is a reflection of its HTML. If we want content to be presented as a list, we would use the `<li>` tag; if we want content to be presented in a table, we would then use the `<table>` tag. In other words, we can structure content how we want; however, we need to use the correct tags.
+The structure of a web-page's content is a reflection of its HTML. If we want content to be presented as a list, we would use the `<li>` tag; if we want content to be presented in a table, we would then use the `<table>` tag. In other words, we can structure content how we want; we need, however, to use the correct tags.
 
 To improve your familiarity with HTML, please complete the following lessons: 
 
@@ -31,7 +31,7 @@ To learn how to use hyperlinks, please read [Creating Hyperlinks][21].
 
 After you're done reading, we'll apply this new knowledge to the result's page we created. Please follow these instructions: 
 
-1. You will not create a seperate page of HTML for each of the titles on the result's page. We want, however, you to gain practice with hyperlinks. Please write the code to make each movie title a hyperlink. When the link is clicked, a new tab should open. Using a relative link, have the tab open to this README.md.
+1. You will not create a seperate page of HTML for each movie title on the result's page. We want, however, you to gain practice with hyperlinks. Please write the code to make each movie title a hyperlink. When the link is clicked, a new tab should open. Using a relative link, have the tab open to this README.md.
     
 2. You will also not create a seperate page of HTML for each actor or actress. To this extent, turn every actor and actress on your result's page into a hyperlink. Have each link be an absolute path the actor or actress' page on IMDB. 
 
@@ -55,17 +55,16 @@ Let's get some practice using rich media with [Lesson 9: Adding Media][31]. Afte
 We want to see the amazing work you've done, so push your code to Github. If you're unclear how to do this, follow these steps:    
 
 1. You'll need to create a [fork and clone][41] of this repository. 
-2. Create a file named `[lastName-firstName].html`.
-3. Place your code inside of this file. 
-4. Place this file inside of the folder `_02_html`.  
-5. Add (`git add .`) and commit your changes (`git commit -m "Solution for Chapter 1`). 
-6. Push your changes to your fork: `git push origin master`
-7. Submit a [pull request][41]. Github will send us a notification of your request once it's submitted. 
+2. Inside of `_02_html/your-solution`, create a folder with the following naming convention: `[lastName-firstName]`.
+3. Inside of this folder, create a file--`[lastName-firstName].html` and add your code to the file.
+4. Add (`git add .`) and commit your changes (`git commit -m "Include solution for chapter 1`). 
+5. Push your changes to your fork: `git push origin master`
+6. Submit a [pull request][41]. Github will send us a notification of your request once it's submitted. 
 
-As complete more chapters, build the habit of adding, commiting, and pushing your fork to your forked repository on Github. This is a good workflow; moreover, it minimizes any chances of losing valuable work. 
+As you continue with the pre-course, build the habit of frequently adding, commiting, and pushing your work to your forked repository on Github. This is a good workflow; moreover, it minimizes any chances of losing your valuable work. 
 
 ## Conclusion
-In this chapter, you've built a result's page on IMDB. What you've done so far is awesome, but it lacks some style. Let's address this problem, and add it to our page. We need to take the next step of web development: [Chapter 3: CSS][next-page]
+In this chapter, you've built a result's page on IMDB. What you've done so far is awesome, but it lacks style. Let's address this problem and add some to our page. We need to take the next step of web development: [Chapter 3: CSS][next-page]
 
 [1]: #1-of-4-markup
 [11]: http://learn.shayhowe.com/html-css/building-your-first-web-page/

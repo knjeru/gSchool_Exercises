@@ -1,5 +1,5 @@
 # Chapter 1: Tools
-The first step of becoming a web full-stack developer is learning the tools of our trade.  
+The first step of becoming a full-stack developer is learning the tools of our trade.  
 
 ## Objectives 
 We've defined the following objectives: 
