@@ -35,6 +35,8 @@ When you're ready to share you're amazing code, please follow these instructions
 # Conclusion
 You've built a project with the knowledge you've acquired. You should be extremely proud of yourself; you've accomplished a lot and you've revealed some of the mysterious associated with building a web-based application. We're excited to reveal more of these mysterious and see you wield the power of web development to build amazing things. 
 
+There's one more step of the pre-course. You'll build a simple website about yourself: [Chapter 7: Personal Project][next-page].
+
 [1]: #1-of-5-a-landing-page
 
 [2]: #2-of-5-an-ajax-call
@@ -46,3 +48,5 @@ You've built a project with the knowledge you've acquired. You should be extreme
 [4]: #4-of-5-a-movie
 
 [5]: #5-of-5-push-to-github
+
+[next-page]: ../_07_personal-project/readme.md
