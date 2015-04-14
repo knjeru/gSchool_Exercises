@@ -49,5 +49,5 @@ Let's get started: [Chapter 1: Tools of a Developer][next-page].
 [5]: #5-of-6-jquery-for-simplified-javascript
 [6]: #6-of-6-a-clone-of-imdb
 
-[contact-us]: mailto:cho.kim@galvanize.it
+[contact-us]: mailto:jonathan@galvanize.it
 [next-page]: ./_01_tools

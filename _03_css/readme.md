@@ -33,10 +33,11 @@ After you complete this lesson, add the appropriate CSS to create two columns fo
 You now have style, and we want to see it. Please follow these instructions: 
 
 1. Inside of `_03_css/your-solution`, please create a folder with the following naming convention: [lastName-firstName]. 
-2. Include your HTML and CSS inside of your folder. 
-3. Push your code to your fork of this repository.
-4. Submit a pull request.
-5. Wait for an air high-five.  
+2. Create a file named `index.html` and a file named `style.css`. 
+3. Add your HTML and CSS to its corresponding file.
+4. Push your code to your fork of this repository.
+5. Submit a pull request.
+6. Wait for an air high-five.  
 
 ## Conclusion
 Awesome, you've added style to your HTML. Our page looks good, but it's static--the content and style never changes. To add interactivity to our result's page, we want to add JavaScript. Let's take the next step: [Chapter 4: JavaScript][next-page].

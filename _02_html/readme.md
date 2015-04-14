@@ -54,9 +54,10 @@ Let's get some practice using rich media with [Lesson 9: Adding Media][31]. Afte
 ### 4-of-4: Push to Github
 We want to see the amazing work you've done, so push your code to Github. If you're unclear how to do this, follow these steps:    
 
-1. You'll need to create a [fork and clone][41] of this repository. 
+1. If you haven't done this, you'll need to create a [fork and clone][41] of this repository. 
 2. Inside of `_02_html/your-solution`, create a folder with the following naming convention: `[lastName-firstName]`.
-3. Inside of this folder, create a file--`[lastName-firstName].html` and add your code to the file.
+3. Inside of this folder, create a file named `index.html`. 
+4. Add to `index.html` the HTML you've written.
 4. Add (`git add .`) and commit your changes (`git commit -m "Include solution for chapter 1`). 
 5. Push your changes to your fork: `git push origin master`
 6. Submit a [pull request][41]. Github will send us a notification of your request once it's submitted. 
