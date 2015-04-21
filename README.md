@@ -1,9 +1,9 @@
 # gSchool's Pre-Course Curriculum 
 Hello, Full-Stackers! 
 
-We want to give you major props for your decision to enroll at gSchool. We believe that you have the potential to become an awesome full-stack developer. We also believe that we can help you towards not becoming just a developer, but a master of this craft. 
+We want to give you major props for your decision to enroll at Galvanize's fullstack immersive. We believe that you have the potential to become an awesome full-stack developer. We also believe that we can help you towards not becoming just a developer, but a master of this craft. 
 
-To place you in the best postiion for success at gSchool, we've developed a pre-course. During each chapter of this pre-course, you'll be introduced to a foundation of modern web development. The material in these chapters will be invaluable during your first day of class, so please allocate enough time to complete the work. You'll find a huge return on your investment of time. 
+To place you in the best postiion for success, we've developed a pre-course. During each chapter of this pre-course, you'll be introduced to a foundation of modern web development. The material in these chapters will be invaluable during your first day of class, so please allocate enough time to complete the work. You'll find a huge return on your investment of time. 
 
 If you ever need help with the pre-course, please [contact us][contact-us].
 
@@ -38,7 +38,7 @@ In this chapter, you'll be introduced to JavaScript's most popular library: jQue
 In this chapter, you'll build a clone of IMDB. Everything you've learned in previous chapters will play an important role in achieving this goal. You'll see, in other words, the connection between all chapters.  
 
 ## Conclusion
-In this document, you've been introduced to the pre-course. During each chapter, you'll not only be introduced to a new topic, but you'll be also given enough information to build a simple web-based application. The knowledge you gain here will form the foundation for what you'll learn during your time at gSchool. 
+In this document, you've been introduced to the pre-course. During each chapter, you'll not only be introduced to a new topic, but you'll be also given enough information to build a simple web-based application. The knowledge you gain here will form the foundation for what you'll learn during your time here. 
 
 Let's get started: [Chapter 1: Tools of a Developer][next-page].
 
