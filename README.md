@@ -1,4 +1,4 @@
-# gSchool's Pre-Course Curriculum 
+# Galvanize Fullstack Pre-Course Curriculum 
 Hello, Full-Stackers! 
 
 We want to give you major props for your decision to enroll at Galvanize's fullstack immersive. We believe that you have the potential to become an awesome full-stack developer. We also believe that we can help you towards not becoming just a developer, but a master of this craft. 
