@@ -1,8 +1,8 @@
 # Chapter 3: CSS
-The third step of becoming a web developer involves the use of CSS: The language that adds style to web-pages. 
+The third step of becoming a web developer involves the use of CSS: The language that adds style to web-pages.
 
-## Objectives 
-We've defined the following objectives: 
+## Objectives
+We've defined the following objectives:
 
 After this chapter, students will...
 
@@ -11,9 +11,9 @@ After this chapter, students will...
 3. [push their work to Github][3]
 
 ### 1 of 3: CSS
-CSS uses HTML tags and attributes to style a web-page. The number of styles and the combination of their uses is both impressive and overwhelming. To give you a brief introduction the basics of CSS, pleasee complete [Lesson 5: Getting to know CSS][11]. To gain some interactive experience with CSS, please try [CSS Diner][12].
+CSS uses HTML tags and attributes to style a web-page. The number of styles and the combination of their uses is both impressive and overwhelming. To give you a brief introduction the basics of CSS, please complete [Lesson 5: Getting to know CSS][11]. To gain some interactive experience with CSS, please try [CSS Diner][12].
 
-With this knowledge of CSS, apply alternating color to the rows of movies in your result's page of IMDB. 
+With this knowledge of CSS, apply alternating color to the rows of movies in your result's page of IMDB.
 
 ### 2 of 3: Floats
 Changing the position of content on a web-page is common task. In order to create an accurate layout of the result's page of IMDB, you'll need to learn how to do this. To help you achieve this goal, please complete [Lesson 5: Positioning Content][21].
@@ -30,10 +30,10 @@ After you complete this lesson, add the appropriate CSS to create two columns fo
   - Additional Search Options
 
 ### 3 of 3: Push to Github
-You now have style, and we want to see it. Please follow these instructions: 
+You now have style, and we want to see it. Please follow these instructions:
 
-1. Inside of `_03_css/your-solution`, please create a folder with the following naming convention: [lastName-firstName]. 
-2. Create a file named `index.html` and a file named `style.css`. 
+1. Inside of `_03_css/your-solution`, please create a folder with the following naming convention: [lastName-firstName].
+2. Create a file named `index.html` and a file named `style.css`.
 3. Add your HTML and CSS to its corresponding file.
 4. Push your code to your fork of this repository.
 5. Submit a pull request.

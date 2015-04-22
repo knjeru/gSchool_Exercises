@@ -27,7 +27,7 @@ The following commands are some of the most useful you can learn:
     1. ⌘ + Spacebar
 
 - opening Terminal
-    1. Spoltlight
+    1. Spotlight
     2. "ter" + Enter
 
 - opening Sublime
@@ -35,7 +35,7 @@ The following commands are some of the most useful you can learn:
     2. "subl" + Enter
 
 - opening Chrome
-    1. Spoltlight
+    1. Spotlight
     2. "chr" + Enter
 
 - taking a screenshot
@@ -72,7 +72,7 @@ Every developer will perform certain tasks--navigating a file system, viewing fi
   - `rm -rf [directory]`
 
 ### 4 of 6: Sublime Text
-Every web devleoper needs a text editor. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized. For this reasons, we want you to [install it][41].
+Every web developer needs a text editor. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized. For this reasons, we want you to [install it][41].
 
 ### 5 of 6: Git Commands
 In the most simplistic of terms, Git manages different versions of files. Git does this amazingly well, and it's the reason why [most web-based companies use Git][51] to manage their codebases.
@@ -89,7 +89,7 @@ Git repositories can be stored online using Github, an extremely popular hosting
 *Additional Resources*: [Atlassian's Collaborating][64]
 
 # Conclusion
-You've done it! You've acquired the basic tools of a web developer. We're ready to take the next step of the pre-course: [Chatper 2: HTML][next-page].
+You've done it! You've acquired the basic tools of a web developer. We're ready to take the next step of the pre-course: [Chapter 2: HTML][next-page].
 
 [1]: #1-of-6-the-value-of-keyboard-commands
 [2]: #2-of-6-os-x-keyboard-commands
