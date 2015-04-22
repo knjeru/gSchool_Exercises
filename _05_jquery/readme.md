@@ -35,4 +35,4 @@ You'll apply everything you've learned in the next step:
 [3]: #3-of-3-practice-with-jquery
 [31]: http://www.codecademy.com/en/tracks/jquery
 
-[next-page]: ../_06_personal_prokect/readme.md
+[next-page]: ../_06_personal_project/readme.md
