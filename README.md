@@ -47,7 +47,7 @@ Let's get started: [Chapter 1: Tools of a Developer][next-page].
 [3]: #3-of-6-css-for-style
 [4]: #4-of-6-javascript-for-interactivity
 [5]: #5-of-6-jquery-for-simplified-javascript
-[6]: #6-of-6-a-clone-of-imdb
+[6]: #6-of-6-a-personal-project
 
 [contact-us]: mailto:jonathan@galvanize.it
 [next-page]: ./_01_tools
