@@ -27,6 +27,8 @@ Note that the CSS should be linked to from a separate CSS file. For more informa
 ### Use jQuery
 The site should use jQuery to change something on the page when a user clicks a button. The button can say or do anything, but it must be handled using jQuery.
 
+You can learn more [about jQuery online](http://try.jquery.com/).
+
 ### GIF
 Somewhere on the website, you should include a GIF that illustrates how you feel about starting your new career in programming.
 
