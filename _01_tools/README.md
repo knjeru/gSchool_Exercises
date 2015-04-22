@@ -1,8 +1,8 @@
 # Chapter 1: Tools
 The first step of becoming a full-stack developer is learning the tools of our trade.  
 
-## Objectives 
-We've defined the following objectives: 
+## Objectives
+We've defined the following objectives:
 
 After this chapter, students will...
 
@@ -14,14 +14,14 @@ After this chapter, students will...
 6. [link Git with Github][6]
 
 ### 1 of 6: The Value of Keyboard Commands
-You'll quickly learn that the primary tool of our trade is the keyboard. This tool is so valuable to us that we use it as much as possible. If there's a keyboard command that we can use instead of a trackpad or mouse, then we'll prefer the keyboard. This reality may shock you, especially the thought that you may have to become highly proficient using the keyboard. There's a reason, however, why you should embrace this practice: Keyboard commands make us more efficient. 
+You'll quickly learn that the primary tool of our trade is the keyboard. This tool is so valuable to us that we use it as much as possible. If there's a keyboard command that we can use instead of a trackpad or mouse, then we'll prefer the keyboard. This reality may shock you, especially the thought that you may have to become highly proficient using the keyboard. There's a reason, however, why you should embrace this practice: Keyboard commands make us more efficient.
 
-Learning a single keyboard command, such as opening Spotlight, can save you seconds from clicking and scrolling through several items. If we consider that a developer will open Spotlight dozens of times on a typcial day, we'll notice that the seconds from this one shortcut will save us minutes. Imagine the amount of time you would save if you learned more commands. Those extra minutes, and eventually hours, could be spent on something better, such as raiding the pantry!
+Learning a single keyboard command, such as opening Spotlight, can save you seconds from clicking and scrolling through several items. If we consider that a developer will open Spotlight dozens of times on a typical day, we'll notice that the seconds from this one shortcut will save us minutes. Imagine the amount of time you would save if you learned more commands. Those extra minutes, and eventually hours, could be spent on something better, such as raiding the pantry!
 
 In the rest of this document, you'll be introduced to the keyboard commands that will save you a lot of time during your daily workflow at gSchool.
 
 ### 2 of 6: OS X Keyboard Commands
-The following commands are some of the most useful you can learn: 
+The following commands are some of the most useful you can learn:
 
 - opening Spotlight
     1. ⌘ + Spacebar
@@ -30,7 +30,7 @@ The following commands are some of the most useful you can learn:
     1. Spoltlight
     2. "ter" + Enter
 
-- opening Sublime 
+- opening Sublime
     1. Spotlight
     2. "subl" + Enter
 
@@ -47,40 +47,40 @@ The following commands are some of the most useful you can learn:
     2. ⌘ + Option + [the position of the tab in your browser window]
 
 - creating the Apple Logo 
-    1. Option + Shift + K 
+    1. Option + Shift + K
 
 ### 3 of 6: Unix Commands
-Every developer will perform certain tasks--navigating a file system, viewing files of a directory, etc. The following commands will help you complete these tasks. 
+Every developer will perform certain tasks--navigating a file system, viewing files of a directory, etc. The following commands will help you complete these tasks.
 
 > To use Unix commands, you'll need to open a command-line interface, such as the [Terminal][2].
 
 1. Navigating through a directory
   - `cd [argument]`
-2. Viewing files and directories 
+2. Viewing files and directories
   - `ls [flag]`
 3. Creating a file
   - `touch [filename]`
 4. Creating a directory
   - `mkdir [directory]`
-5. Reading a file 
+5. Reading a file
   - `cat [filename]`
 6. Opening a file or directory
   - `open [filename or directory]`
-7. Deleting a file 
+7. Deleting a file
   - `rm [filename]`
 8. Deleting a directory
   - `rm -rf [directory]`
 
 ### 4 of 6: Sublime Text
-Every web devleoper needs a text editor. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized. For this reasons, we want you to [install it][41]. 
+Every web devleoper needs a text editor. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized. For this reasons, we want you to [install it][41].
 
 ### 5 of 6: Git Commands
-In the most simplistic of terms, Git manages different versions of files. Git does this amazingly well, and it's the reason why [most web-based companies use Git][51] to manage their codebases. 
+In the most simplistic of terms, Git manages different versions of files. Git does this amazingly well, and it's the reason why [most web-based companies use Git][51] to manage their codebases.
 
 In this section, we'll introduce two of the most popular resources for learning Git: [Code School's Try Git][52] and [Atlassian's Getting Started][53]
 
 ### 6 of 6: Git with Github
-Git repositories can be stored online using Github, an extremely popular hosting service. To deploy your Git repositories to Github, please follow these steps: 
+Git repositories can be stored online using Github, an extremely popular hosting service. To deploy your Git repositories to Github, please follow these steps:
 
 1. Create an [account][61]
 2. Generate an [SHH key][62]
