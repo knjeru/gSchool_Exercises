@@ -62,6 +62,8 @@ We want to see the amazing work you've done, so push your code to Github. If you
 5. Push your changes to your fork: `git push origin master`
 6. Submit a [pull request][41]. Github will send us a notification of your request once it's submitted.
 
+> Here is a great thorough walk-through of this process of submitting a Pull Request: [http://www.codenewbie.org/blogs/how-to-make-a-pull-request](http://www.codenewbie.org/blogs/how-to-make-a-pull-request)
+
 As you continue with the pre-course, build the habit of frequently adding, commiting, and pushing your work to your forked repository on Github. This is a good workflow; moreover, it minimizes any chances of losing your valuable work.
 
 ## Conclusion
