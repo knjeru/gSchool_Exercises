@@ -3,7 +3,7 @@ Hello, Full-Stackers!
 
 We want to give you major props for your decision to enroll at Galvanize's fullstack immersive. We believe that you have the potential to become an awesome full-stack developer. We also believe that we can help you towards not becoming just a developer, but a master of this craft.
 
-To place you in the best postiion for success, we've developed a pre-course. During each chapter of this pre-course, you'll be introduced to a foundation of modern web development. The material in these chapters will be invaluable during your first day of class, so please allocate enough time to complete the work. You'll find a huge return on your investment of time.
+To place you in the best position for success, we've developed a pre-course. During each chapter of this pre-course, you'll be introduced to a foundation of modern web development. The material in these chapters will be invaluable during your first day of class, so please allocate enough time to complete the work. You'll find a huge return on your investment of time.
 
 If you ever need help with the pre-course, please [contact us][contact-us].
 
