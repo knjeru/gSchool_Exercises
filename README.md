@@ -29,7 +29,7 @@ In this chapter, you'll be introduced to the language that adds structure and co
 In this chapter, you'll be introduced to the language that adds style to web-pages: CSS. We'll take the HTML you wrote during the previous chapter and learn just enough CSS to style your result's page of IMDB.
 
 ### 4 of 6: JavaScript for Interactivity
-In this chapter, you'll be introduced to the language that adds interactivity to web-pages: JavaScript. We'll learn enough JavaScript to help you eventually maniuplate the HTML and CSS you've written.
+In this chapter, you'll be introduced to the language that adds interactivity to web-pages: JavaScript. We'll learn enough JavaScript to help you eventually manipulate the HTML and CSS you've written.
 
 ### 5 of 6: jQuery for Simplified JavaScript
 In this chapter, you'll be introduced to JavaScript's most popular library: jQuery. We'll learn enough jQuery to help you fetch data about movies (via AJAX) and to use that data to manipulate a web-page.
