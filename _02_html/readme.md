@@ -33,7 +33,7 @@ After you're done reading, we'll apply this new knowledge to the result's page w
 
 1. You will not create a separate page of HTML for each movie title on the result's page. We want, however, you to gain practice with hyperlinks. Please write the code to make each movie title a hyperlink. When the link is clicked, a new tab should open. Using a relative link, have the tab open to this README.md.
 
-2. You will also not create a separate page of HTML for each actor or actress. To this extent, turn every actor and actress on your result's page into a hyperlink. Have each link be an absolute path the actor or actress' page on IMDB. 
+2. You will also not create a separate page of HTML for each actor or actress. To this extent, turn every actor and actress on your result's page into a hyperlink. Have each link be an absolute path the actor or actress' page on IMDB.
 
 ### 3 of 3: Rich Media
 HTML has the amazing ability to support different types of rich media:
@@ -55,12 +55,12 @@ Let's get some practice using rich media with [Lesson 9: Adding Media][31]. Afte
 We want to see the amazing work you've done, so push your code to Github. If you're unclear how to do this, follow these steps:
 
 1. If you haven't done this, you'll need to create a [fork and clone][41] of this repository.
-2. Inside of `_02_html/your-solution`, create a folder with the following naming convention: `[lastName-firstName]`.
-3. Inside of this folder, create a file named `index.html`.
+2. Inside of `_02_html/your-solution`, create a folder with the following naming convention: `[lastName-firstName]`. So your folder structure will look like this: `_02_html/your-solution/lastName-firstName`
+3. Inside of the `lastName-firstName` folder, create a file named `index.html`.
 4. Add to `index.html` the HTML you've written.
-4. Add (`git add .`) and commit your changes (`git commit -m "Include solution for chapter 1`).
+4. Add (`git add -A`) and commit your changes (`git commit -m "Include solution for chapter 1`).
 5. Push your changes to your fork: `git push origin master`
-6. Submit a [pull request][41]. Github will send us a notification of your request once it's submitted.
+6. Submit a [pull request][42]. Github will send us a notification of your request once it's submitted.
 
 > Here is a great thorough walk-through of this process of submitting a Pull Request: [http://www.codenewbie.org/blogs/how-to-make-a-pull-request](http://www.codenewbie.org/blogs/how-to-make-a-pull-request)
 
@@ -85,6 +85,6 @@ In this chapter, you've built a result's page on IMDB. What you've done so far i
 
 [4]: $4-of-4-push-to-github
 [41]: https://help.github.com/articles/fork-a-repo/
-[41]: https://help.github.com/articles/using-pull-requests/
+[42]: https://help.github.com/articles/using-pull-requests/
 
 [next-page]: ../_03_css
