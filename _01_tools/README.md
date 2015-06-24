@@ -94,7 +94,9 @@ You've done it! You've acquired the basic tools of a web developer. We're ready 
 
 ### Want More?
 
-[shortcutFoo](https://www.shortcutfoo.com/) - Learn Shortcuts. Work Smarter.
+*This is optional*
+
+[shortcutFoo](https://www.shortcutfoo.com/) - Learn keyboard shortcuts - fast!
 
 [1]: #1-of-6-the-value-of-keyboard-commands
 [2]: #2-of-6-os-x-keyboard-commands
