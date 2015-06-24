@@ -92,9 +92,7 @@ Git repositories can be stored online using Github, an extremely popular hosting
 # Conclusion
 You've done it! You've acquired the basic tools of a web developer. We're ready to take the next step of the pre-course: [Chapter 2: HTML][next-page].
 
-### Want More?
-
-*This is optional*
+### Want More? *(optional)*
 
 [shortcutFoo](https://www.shortcutfoo.com/) - Learn keyboard shortcuts - fast!
 
