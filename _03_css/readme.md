@@ -1,5 +1,5 @@
 # Chapter 3: CSS
-The third step of becoming a web developer involves the use of CSS: The language that adds style to web-pages.
+The third step of becoming a web developer involves the use of CSS: *The language that adds style to web-pages.*
 
 ## Objectives
 We've defined the following objectives:
@@ -11,7 +11,7 @@ After this chapter, students will...
 3. [push their work to Github][3]
 
 ### 1 of 3: CSS
-CSS uses HTML tags and attributes to style a web-page. The number of styles and the combination of their uses is both impressive and overwhelming. To give you a brief introduction the basics of CSS, please complete [Lesson 5: Getting to know CSS][11]. To gain some interactive experience with CSS, please try [CSS Diner][12].
+CSS uses HTML tags and attributes to style a web-page. The number of styles and the combination of their uses is both impressive and overwhelming. To give you a brief introduction to the basics of CSS, please complete [Lesson 3: Getting to know CSS][11]. To gain some interactive experience with CSS, please try [CSS Diner][12].
 
 With this knowledge of CSS, apply alternating color to the rows of movies in your result's page of IMDB.
 
@@ -37,7 +37,7 @@ You now have style, and we want to see it. Please follow these instructions:
 3. Add your HTML and CSS to its corresponding file.
 4. Push your code to your fork of this repository.
 5. Submit a pull request.
-6. Wait for an air high-five.  
+6. Wait for an [air high-five][31].  
 
 ## Conclusion
 Awesome, you've added style to your HTML. Our page looks good, but it's static--the content and style never changes. To add interactivity to our result's page, we want to add JavaScript. Let's take the next step: [Chapter 4: JavaScript][next-page].
@@ -47,6 +47,9 @@ Awesome, you've added style to your HTML. Our page looks good, but it's static--
 [12]: http://flukeout.github.io/
 
 [2]: #2-of-3-css
+[21]: http://learn.shayhowe.com/html-css/positioning-content/
+
 [3]: #3-of-3-push-to-github
+[31]: https://dragon-innovation-production.s3.amazonaws.com/2013/10/17/16/18/30/120/FiestaFiveAnimation2.gif
 
 [next-page]: ../_04_javascript/readme.md
