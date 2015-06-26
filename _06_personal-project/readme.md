@@ -40,3 +40,7 @@ All markup must be valid through the W3C validator.
 To validate your website, visit [the validator](http://validator.w3.org/#validate_by_upload), click "Choose file", upload your HTML file, and click "Check". You should validate each HTML file in your website.
 
 The validator will provide a list of warnings and errors. It's okay if your website has warnings, but there should be *no* errors when you are done with your site.
+
+<hr>
+
+You're done! But...if you do want more check out the [Bonus Section](../_06_personal-project/readme.md).

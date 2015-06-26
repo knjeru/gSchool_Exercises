@@ -37,8 +37,13 @@ In this chapter, you'll be introduced to JavaScript's most popular library: jQue
 ### 6 of 6: A Personal Project
 In this chapter, you'll build a personal website using all the things you've learned so far. We'll use these personal websites as a way to get to know each other on the first day, so let your personality shine and have fun with it. Good luck!
 
+### 7 of 7: Bonus
+All finished? Hungry for more?
+
 ## Conclusion
 In this document, you've been introduced to the pre-course. During each chapter, you'll not only be introduced to a new topic, but you'll be also given enough information to build a simple web-based application. The knowledge you gain here will form the foundation for what you'll learn during your time here.
+
+> Estimated time to complete: 25 to 30 hours
 
 Let's get started: [Chapter 1: Tools of a Developer][next-page].
 

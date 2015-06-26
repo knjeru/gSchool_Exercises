@@ -49,8 +49,6 @@ The following commands are some of the most useful you can learn:
 - creating the Apple Logo 
     1. Option + Shift + K
 
-*Additional Resources*: [shortcutFoo][21] - Learn keyboard shortcuts - fast!
-
 ### 3 of 6: Unix Commands
 Every developer will perform certain tasks--navigating a file system, viewing files of a directory, etc. The following commands will help you complete these tasks.
 
