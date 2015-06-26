@@ -64,7 +64,7 @@ We want to see the amazing work you've done, so push your code to Github. If you
 
 > Here is a great thorough walk-through of this process of submitting a Pull Request: [http://www.codenewbie.org/blogs/how-to-make-a-pull-request](http://www.codenewbie.org/blogs/how-to-make-a-pull-request)
 
-As you continue with the pre-course, build the habit of frequently adding, commiting, and pushing your work to your forked repository on Github. This is a good workflow; moreover, it minimizes any chances of losing your valuable work.
+As you continue with the pre-course, build the habit of frequently adding, committing, and pushing your work to your forked repository on Github. This is a good workflow; moreover, it minimizes any chances of losing your valuable work.
 
 ## Conclusion
 In this chapter, you've built a result's page on IMDB. What you've done so far is awesome, but it lacks style. Let's address this problem and add some to our page. We need to take the next step of web development: [Chapter 3: CSS][next-page]
@@ -82,7 +82,7 @@ In this chapter, you've built a result's page on IMDB. What you've done so far i
 
 [3]: #3-of-4-rich-media
 [31]: http://learn.shayhowe.com/html-css/adding-media/
-[32]: ./images
+[32]: https://github.com/gSchool/prework/tree/master/_02_html/images
 
 [4]: $4-of-4-push-to-github
 [41]: https://help.github.com/articles/fork-a-repo/
