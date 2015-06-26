@@ -1,11 +1,11 @@
 ## Personal Profile Site
 
-Build a simple website with some constraints. There will be an assessment on your understanding of the code you produce, so do not copy code from other's work.
+Build a simple website with some constraints. *There will be an assessment on your understanding of the code you produce, so do not copy code from other's work.*
 
 We'll use these websites as a way to get to know each other on the first day, so let your personality shine and have fun with it. Good luck!
 
 ### Two Pages
-The website should have two pages linked with anchor tags. One page should describe where you come from and who you are (hometown, favorites, siblings, hobbies, etc.). The second page should describe where you're going in life and who you will become (career goals, gSchool goals, hopes, dreams, etc).
+The website should have two pages linked with anchor tags. One page should describe where you come from and who you are (i.e., hometown, favorites, siblings, hobbies, etc.). The second page should describe where you're going in life and who you will become (i.e., career goals, gSchool goals, hopes, dreams, etc).
 
 Example content for page one:
 
