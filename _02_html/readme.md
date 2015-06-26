@@ -58,7 +58,7 @@ We want to see the amazing work you've done, so push your code to Github. If you
 2. Inside of `_02_html/your-solution`, create a folder with the following naming convention: `[lastName-firstName]`. So your folder structure will look like this: `_02_html/your-solution/lastName-firstName`
 3. Inside of the `lastName-firstName` folder, create a file named `index.html`.
 4. Add to `index.html` the HTML you've written.
-4. Add (`git add -A`) and commit your changes (`git commit -m "Include solution for chapter 1`).
+4. Add (`git add -A`) and commit your changes (`git commit -m "Include solution for chapter 1"`).
 5. Push your changes to your fork: `git push origin master`
 6. Submit a [pull request][42]. Github will send us a notification of your request once it's submitted.
 
