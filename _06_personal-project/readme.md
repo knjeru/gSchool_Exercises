@@ -43,4 +43,4 @@ The validator will provide a list of warnings and errors. It's okay if your webs
 
 <hr>
 
-You're done! But...if you do want more check out the [Bonus Section](../_06_personal-project/readme.md).
+You're done! But...if you do want more check out the [Bonus Section](../_07_bonus/readme.md).
