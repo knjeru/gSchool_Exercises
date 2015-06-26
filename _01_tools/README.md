@@ -73,7 +73,7 @@ Every developer will perform certain tasks--navigating a file system, viewing fi
 1. Deleting a directory
   - `rm -rf [directory]`
 
-*Be sure to read over [this](http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/) quick tutorial to learn more useful commands.*
+*Be sure to read over [this][31] quick tutorial to learn even more useful commands.*
 
 ### 4 of 6: Sublime Text
 Every web developer needs a text editor; it's a developer's most dangerous weapon. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized. For this reasons, we want you to [install it][41].
@@ -103,6 +103,7 @@ You've done it! You've acquired the basic tools of a web developer. We're ready 
 [21]: https://www.shortcutfoo.com/
 
 [3]: #3-of-6-unix-commands
+[31]: http://mac.appstorm.net/how-to/utilities-how-to/how-to-use-terminal-the-basics/
 
 [4]: #4-of-6-sublime-text
 [41]: http://www.sublimetext.com/3
