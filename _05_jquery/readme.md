@@ -1,5 +1,5 @@
 # Chapter 5: jQuery
-The fifth step of becoming a web developer involves jQuery: The *de facto* library for manipulating web-pages.
+The fifth step of becoming a web developer involves jQuery: *The de facto library for manipulating web-pages*.
 
 ## Objectives
 We've defined the following objectives:
