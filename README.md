@@ -17,7 +17,7 @@ students will...
 3. [learn CSS to add style to the web-page][3]
 4. [learn JavaScript to add interactivity to the web-page][4]
 5. [learn jQuery to simplify the JavaScript][5]
-6. [Create a personal project][6]
+6. [create a personal project][6]
 
 ### 1 of 6: Tools of a Developer
 In this chapter, you'll be introduced to the tools of a web developer. Everything you learn here will be immediately useful to your daily workflow as a student and, eventually, as a developer.
