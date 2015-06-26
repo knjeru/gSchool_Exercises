@@ -87,7 +87,7 @@ In this section, we'll introduce two of the most popular resources for learning 
 Git repositories can be stored online using Github, an extremely popular hosting service. To deploy your Git repositories to Github, please follow these steps:
 
 1. Create a Github [account][61]
-2. Generate an [SHH key][62]
+2. Generate an [SSH key][62]
 3. Create a [Github Repository][63]
 4. Go through this tutorial to learn about the Pull-Request workflow: [https://github.com/asmeurer/git-workflow](https://github.com/asmeurer/git-workflow)
 
