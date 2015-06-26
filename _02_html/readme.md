@@ -1,5 +1,5 @@
 # Chapter 2: HTML
-The second step of becoming a full-stack web developer involves learning HTML: The language that adds structure and content to web-pages.
+The second step of becoming a full-stack web developer involves learning HTML - *The language that adds structure and content to web-pages.*
 
 ## Objectives
 We've defined the following objectives:
@@ -31,23 +31,23 @@ To learn how to use hyperlinks, please read [Creating Hyperlinks][21].
 
 After you're done reading, we'll apply this new knowledge to the result's page we created. Please follow these instructions:
 
-1. You will not create a separate page of HTML for each movie title on the result's page. We want, however, you to gain practice with hyperlinks. Please write the code to make each movie title a hyperlink. When the link is clicked, a new tab should open. Using a relative link, have the tab open to this README.md.
+1. You will not create a separate page of HTML for each movie title on the result's page. We want, however, you to gain practice with hyperlinks. Please write the code to make each movie title a hyperlink. When the link is clicked, a new tab should open. Using a [relative][22] link, have the tab open to this README.md.
 
 2. You will also not create a separate page of HTML for each actor or actress. To this extent, turn every actor and actress on your result's page into a hyperlink. Have each link be an absolute path the actor or actress' page on IMDB.
 
 ### 3 of 3: Rich Media
 HTML has the amazing ability to support different types of rich media:
 
-- `<image>`: image
+- `<img>`: image
 - `<svg>`: vector image
 - `<embed>`: embedded video
 - `<video>`: native video
 - `<canvas>`: graphics
 - and more...
 
-Let's get some practice using rich media with [Lesson 9: Adding Media][31]. After your done with this lesson, include the `<image>` tag into our result's page. Here's the instructions you should follow:
+Let's get some practice using rich media with [Lesson 9: Adding Media][31]. After you're done with this lesson, include the `<img>` tag into our result's page. Here's the instructions you should follow:
 
-1. Replace each of the image placeholders (`[img placeholder]`) with an`<image>` tag. You'll be provided [images][32] for each of the titles.
+1. Replace each of the image placeholders (`[img placeholder]`) with an`<img>` tag. You'll be provided [images][32] for each of the titles.
 
 2. Set the height and width of each image to **32 x 44 pixels**.
 
@@ -71,13 +71,14 @@ In this chapter, you've built a result's page on IMDB. What you've done so far i
 
 [1]: #1-of-4-markup
 [11]: http://learn.shayhowe.com/html-css/building-your-first-web-page/
-[12]: http://learn.shayhowe.com/html-css/organizing-data-with-tables/
+[12]: http://learn.shayhowe.com/html-css/creating-lists/
 [13]: http://learn.shayhowe.com/html-css/organizing-data-with-tables/
 [14]: images/imdb_hackers_html.png
 [15]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
 
 [2]: #2-of-4-hyperlinks
 [21]: http://learn.shayhowe.com/html-css/getting-to-know-html/#creating-hyperlinks
+[22]: http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
 
 [3]: #3-of-4-rich-media
 [31]: http://learn.shayhowe.com/html-css/adding-media/
