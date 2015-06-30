@@ -54,5 +54,5 @@ Let's get started: [Chapter 1: Tools of a Developer][next-page].
 [5]: #5-of-6-jquery-for-simplified-javascript
 [6]: #6-of-6-a-personal-project
 
-[contact-us]: mailto:jonathan@galvanize.com
+[contact-us]: mailto:fs.all@galvanize.com
 [next-page]: ./_01_tools
