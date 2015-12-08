@@ -7,16 +7,16 @@ We've defined the following objectives:
 
 After this chapter, students will...
 
-1. [install Chrome][chrome]
-1. [install Sublime Text][sublime]
-1. [understand value & basics of keyboard commands][keyboard]
-1. [understand basic Unix commands][unix]
-1. [understand basic Git commands][git]
-1. [link Git with Github][github]
+1. [Install Chrome][chrome]
+1. [Install Sublime Text][sublime]
+1. [Understand the Value & Basics of Keyboard Commands][keyboard]
+1. [Understand Basic Unix Commands][unix]
+1. [Understand Basic Git Commands][git]
+1. [Link Git with Github][github]
 
 
 ## Install Chrome
-If you haven't already, you'll want to have Chrome installed on your computer. Chrome is a great browser and comes with many developer tools included. It also allows for a number of plugins to be installed which allow for even more functionality.
+If you haven't already, you'll want to have Chrome installed on your computer. Chrome is a great browser and comes with many developer tools out of the box. It also allows for a number of plugins to be installed which allow for even more functionality.
 
 ---
 ##### Do this:
@@ -25,7 +25,7 @@ If you haven't already, you'll want to have Chrome installed on your computer. C
 
 
 ## Sublime Text
-Every web developer needs a text editor; it's a developer's most dangerous weapon. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality, such as syntax highlighting, and it can be further customized with all kinds of great packages.
+Every web developer needs a text editor; it's a developer's most dangerous weapon. The text editor of choice, especially for new developers, is Sublime Text. We can understand the rationale: it's easy to use, it provides core functionality (such as syntax highlighting), and it can be further customized with all kinds of great packages.
 
 ---
 ##### Do this:
@@ -35,7 +35,7 @@ Every web developer needs a text editor; it's a developer's most dangerous weapo
 ## The Value of Keyboard Commands
 You'll quickly learn that the primary tool of our trade is the keyboard. This tool is so valuable to us that we use it as much as possible. If there's a keyboard command that we can use instead of a trackpad or mouse, then we'll prefer the keyboard. This reality may shock you, especially the thought that you may have to become highly proficient using the keyboard. There's a reason, however, why you should embrace this practice: Keyboard commands make us more efficient.
 
-Learning a single keyboard command, such as opening [Spotlight](https://en.wikipedia.org/wiki/Spotlight_(software)), can save you seconds from clicking and scrolling through several items. If we consider that a developer will open Spotlight dozens of times on a typical day, we'll notice that the seconds from this one shortcut will save us minutes. Imagine the amount of time you would save if you learned more commands. Those extra minutes, and eventually hours, could be spent on something better, such as raiding the pantry!
+Learning a single keyboard command, such as opening [Spotlight](https://en.wikipedia.org/wiki/Spotlight_(software)), can save you precious seconds from unnecessary clicking and scrolling. If we consider that a developer will open Spotlight dozens of times on a typical day, we'll notice that the seconds from this one shortcut will save us minutes. Imagine the amount of time you would save if you learned more commands. Those extra minutes, and eventually hours, could be spent on something better, such as raiding the pantry!
 
 In the rest of this document, you'll be introduced to the keyboard commands that will save you a lot of time during your daily workflow in class and once you're on the job.
 
@@ -223,7 +223,7 @@ Every developer will perform certain tasks--navigating a file system, viewing fi
 
 1. List out the folders in your root directory and locate the Desktop and Downloads folder.
 
-1. Create a new folder called `galvanize`. Create a new folder inside called `prework`.
+1. Create a new folder called `galvanize`. Enter that newly created folder, and then create a new folder inside called `prework`.
 
 1. Go into the `prework` folder and create a new file called `unix-commands.txt`.
 
@@ -273,7 +273,7 @@ To learn Git, we're going to sign-up for two websites that have a number of free
 
 1. Commit the file with a commit message! (e.g. 'I am adding files to git!')
 
-1. With a git command log out your commit history and save that to a file called 'log.txt'.
+1. With a git command, log your commit history and save that to a file called 'log.txt'.
   * Hint: Use one of the new commands you learned above to do this.
 
 
