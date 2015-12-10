@@ -8,8 +8,6 @@ However, we also take your wellness (and sanity) seriously. If you're at this po
   * Spend time with your friends and family, catch up on your shows, and overall just relax. You'll have plenty of time to be stressed; take care of yourself so that when you start the class, you're ready to go.
 1. Begin (or Continue) Good Habits
   * Include some sort of exercise into your daily routine; begin making a healthy lunch for yourself. It takes a few weeks to start new habits, so start healthy ones now.
-1. Get your finances in order!
-  * Sign-up for a service like [mint](https://www.mint.com/) and keep track of all your accounts. Take a look at your past spending and think about what you may need to change for the upcoming months. Get a plan of action together to make the next few months less stressful.
 
 With that said, doing the following will also be super helpful:
 
