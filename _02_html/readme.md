@@ -14,15 +14,17 @@ After this chapter, students will...
 ### 1 of 4: Markup
 The structure of a web-page's content is a reflection of its HTML. If we want content to be presented as a list, we would use the `<li>` tag; if we want content to be presented in a table, we would then use the `<table>` tag. In other words, we can structure content how we want; we need, however, to use the correct tags.
 
-To improve your familiarity with HTML, please complete the following lessons:
+To improve your familiarity with HTML, please read the following:
 
 1. [Lesson 1: Building Your First Web Page][11]
 2. [Lesson 8: Creating Lists][12]
 3. [Lesson 11: Organizing Data with Tables][13]
 
-When you're done with these lessons, you'll apply what you've learned to create the following HTML. (This is the HTML you would receive from IMDB if you searched for "Hackers".)
+When you're done reading through these lessons, you'll apply what you've learned to create the following HTML. (This is the HTML you would receive from IMDB if you searched for "Hackers".)
 
-![Result Page for "Hackers" on IMDB ][14]
+![Result Page for "Hackers" on IMDB][14]
+
+Based off of this image, create a new html file that displays something similar to the above image.
 
 ### 2 of 4: Hyperlinks
 A hyperlink, which is created with an `<a>` tag, enables developers to link a web-page to another (or the same) web-page.
