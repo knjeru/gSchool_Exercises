@@ -26,7 +26,7 @@ $(document).ready(function() {
 
 /* Fade out Enter button on #bttn click! */
 
-    $("#btt").click(function(){
+    $("#btt, #btt3").click(function(){
       $(this).fadeOut("slow");
     });
 
