@@ -2,7 +2,15 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Form Fields: Example 5</title>
+    <style media="screen">
+      table {
+        border-collapse: collapse;
+      }
+      table tr:nth-child(2n) {
+        background-color: lightgray;
+      }
+    </style>
   </head>
   <body>
     <form class="" action="index.html" method="post">
@@ -51,5 +59,54 @@
       <input type="button" name="name" value="cancelled">
       <input type="button" name="name" value="I can haz html!">
     </form>
+    <br>
+    <table border="black solid 1">
+      <colgroup><col span=".5" style="width: 15%;"></colgroup>
+      <tr>
+        <th>Field Type</th>
+        <th>Field Name</th>
+        <th>Value</th>
+      </tr>
+      <tr>
+        <td>input(text)</td>
+        <td>song</td>
+        <td>Somewhere Over the Rainbow</td>
+      </tr>
+      <tr>
+        <td>input (email)</td>
+        <td>email</td>
+        <td>judy@garlan.net</td>
+      </tr>
+      <tr>
+        <td>input (checkbox)</td>
+        <td>will-win-regionals</td>
+        <td>true</td>
+      </tr>
+      <tr>
+        <td>ipnut (radio)</td>
+        <td>diva-level</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>textarea</td>
+        <td>comment</td>
+        <td>
+          Great Song
+          <br>
+          Love it!
+        </td>
+      </tr>
+      <tr>
+        <td>input (hidden)</td>
+        <td>secret-field</td>
+        <td>42</td>
+      </tr>
+      <tr>
+        <td>select</td>
+        <td>soloist</td>
+        <td>57</td>
+      </tr>
+    </table>
+
   </body>
 </html>
