@@ -1,12 +1,12 @@
 $(document).ready(function() {
-    
+
 /* Click event for ENTER */
 
     $("#btt").click(function() {
       $("#bio").slideDown("slow");
     });
 
-/* Animate scroll to body div content Page 1 */
+/* Animate scroll to body section content Page 1 */
 
     $("#btt").click(function() {
       $('body').animate({scrollTop:'+=650px'}, 800);
@@ -18,7 +18,7 @@ $(document).ready(function() {
       $("#about").fadeIn("slow");
     });
 
-/* Animate scroll to body div content on Page 2 */
+/* Animate scroll to body section content on Page 2 */
 
     $("#btt3").click(function() {
       $('body').animate({scrollTop:'+=650px'}, 800);
